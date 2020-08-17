@@ -7,6 +7,7 @@ Winlocker written in Python.
 DO NOT USE FOR EVIL PURPOSES!
 
 Functional:
+
 1.Banner in full screen on top of all windows
 
 2. Complete blocking of the keyboard (the password is entered by clicking on the graphic buttons)
