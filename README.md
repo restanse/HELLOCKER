@@ -40,6 +40,6 @@ pip install -r requriments.txt
 
 then
 
-pyinstaller lock.py
+pyinstaller -F lock.py
 
-go to the new dist folder then lock and find the lock.exe file there. This is your build.
+go to the new dist folder then find the lock.exe file there. This is your build.
