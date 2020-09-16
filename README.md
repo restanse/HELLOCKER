@@ -16,7 +16,7 @@ Functional:
 
 4. Call bsod when password attempts expire
 
-detections: https://antiscan.me/scan/new/result?id=eX4wBllAyEW2
+detections:  https://antiscan.me/scan/new/result?id=waxnPp6SXDLi
 
 
 
