@@ -10,7 +10,7 @@ Functional:
 
 1.Banner in full screen on top of all windows
 
-2. Complete blocking of the keyboard (the password is entered by clicking on the graphic buttons)
+2. Complete blocking of the keyboard (the password can be entered by clicking on the graphic buttons)
 
 3. Creating a bat file to add to startup
 
